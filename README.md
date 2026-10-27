@@ -44,9 +44,3 @@ O resto da divisão é: 2
 - Leitura de `int` e `double` com `Scanner`
 - Classe `Math` (`sqrt`, `cbrt`, `pow`)
 - Validação de entrada com `if/else` e `try/catch` (`InputMismatchException`)
-
-## Possíveis melhorias
-
-- Separar cada operação em um método
-- Guardar um histórico das operações em um `ArrayList`
-- Usar `double` também em soma, subtração e divisão
